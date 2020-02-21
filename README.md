@@ -1,2 +1,2 @@
 # flutter_widgets
- TabBar, TabBarView, Pageview, ExpansionTile, BottomNavigatorBar, Drawer,
+ TabBar, TabBarView, Pageview, ExpansionTile, BottomNavigatorBar, Drawer, Kullanımı
